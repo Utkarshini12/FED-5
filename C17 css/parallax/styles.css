@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Poppins&family=Rubik&display=swap');
+
+body{
+    font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+
+.parallax-one {
+    background: url("https://images.pexels.com/photos/2609107/pexels-photo-2609107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") repeat fixed 100%;
+    background-size: cover;
+}
+.parallax-two {
+    background: url("https://images.pexels.com/photos/4275885/pexels-photo-4275885.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") repeat fixed 100%;
+    background-size: cover;
+}
+.parallax-three {
+    background: url("https://images.pexels.com/photos/2609107/pexels-photo-2609107.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") repeat fixed 100%;
+    background-size: cover;
+}
+
+.parallax-inner {
+    font-size: 130px;
+}
+
+.section-text {
+    font-size: 16px;
+    margin: 50px;
+}
